@@ -12,7 +12,7 @@
 
 	"mounts": [
 		{
-			"source": "${localWorkspaceFolder}/structurizr",
+			"source": "structurizr",
 			"target": "/usr/local/structurizr",
 			"type": "volume"
 		}
